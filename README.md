@@ -19,4 +19,4 @@ Select the Dashboard to see your workout status.
 # Links
 Heroku: https://nameless-sands-74946.herokuapp.com/
 
-GitHub: https://jtread1215.github.io/workout-tracker/
+GitHub: https://jtread1215.github.io/fitness/
