@@ -17,6 +17,6 @@ Select the Dashboard to see your workout status.
 ![image](https://user-images.githubusercontent.com/77247419/123011636-c93d8100-d38e-11eb-9edf-a96a4b092d04.png)
 
 # Links
-Heroku: https://obscure-island-53472.herokuapp.com/
+Heroku: https://nameless-sands-74946.herokuapp.com/
 
 GitHub: https://jtread1215.github.io/workout-tracker/
